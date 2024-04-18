@@ -1,0 +1,6 @@
+Good morning
+This is a write test in a file.
+Python is a popular language for software development.
+Like JavaScript or C++, Python is unquestionably regarded as one of the best programminglanguages.
+Python's concise and clear syntax makes code easier to read and debug, which increases
+productivity and speed.
